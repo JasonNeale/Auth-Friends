@@ -1,0 +1,24 @@
+ul li {
+    list-style: none;
+}
+
+.App {
+    text-align: center;
+}
+
+.page-body {
+    margin-top: 40px;
+}
+
+.friend-card-col {
+    margin-bottom: 30px;
+}
+
+.friend-card-col:last-child {
+    margin-bottom: 0px;
+}
+
+.friend-card {
+    padding: 20px;
+    height: auto;
+}
